@@ -1,10 +1,3 @@
-## Acknowledgements
-
-This codebase is developed based on the official FLUX.2 repository by Black Forest Labs, with additional modifications and extensions for our method.
-
-Original repository:
-https://github.com/black-forest-labs/flux2
-
 # PDA_PLUS Plan
 This directory contains the PDA_PLUS Plan module, the SegEarthOV3 inference adapter, and the original third-party SAM3 source code. Datasets, model weights, and generated outputs are not included in the repository.
 
@@ -32,3 +25,10 @@ python batch_Seg_AAP.py
 ```
 
 Before running the module, place the SAM3 checkpoint at `models/sam3.pt` and organize the input images and DOTA labels according to the directory layout above. Class names are configured in `configs/mar20_names.txt`, and generated results are written to `outputs/generated_labels/`.
+
+## Acknowledgements
+
+This codebase is developed based on the SegEarth-OV-3 repository by Earth Insights, with additional modifications and extensions for our method.
+
+Original repository:
+https://github.com/earth-insights/SegEarth-OV-3
