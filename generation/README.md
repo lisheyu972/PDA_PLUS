@@ -31,7 +31,7 @@ bash scripts/gen_infer/run_inference_insertion_seg_mata_latent.sh
 ## Training
 
 ```bash
-PYTHONPATH=src python scripts/gen_train/train_lora_insertion_seg.py
+bash scripts/gen_train/run_train_insertion_seg.sh
 ```
 
 All default paths are resolved relative to the `generation` directory. They can be overridden with command-line arguments or environment variables.
