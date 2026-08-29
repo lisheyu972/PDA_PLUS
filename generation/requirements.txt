@@ -1,0 +1,12 @@
+einops==0.8.1
+transformers==4.56.1
+safetensors==0.4.5
+fire==0.7.1
+openai==2.8.1
+accelerate==1.12.0
+peft
+numpy
+Pillow
+scipy
+tqdm
+wandb

@@ -1,0 +1,16 @@
+torch
+torchvision
+triton
+numpy>=1.26,<2
+opencv-python
+Pillow
+tqdm
+ftfy==6.1.1
+regex
+iopath>=0.1.10
+einops
+timm>=1.0.17
+huggingface_hub
+typing_extensions
+pycocotools
+psutil

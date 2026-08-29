@@ -1,0 +1,6 @@
+background
+runway, taxiway, apron,parking_lot,concrete,
+grass
+terminal,building
+airplane,aircraft
+car
