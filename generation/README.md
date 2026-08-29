@@ -35,3 +35,10 @@ PYTHONPATH=src python scripts/gen_train/train_lora_insertion_seg.py
 ```
 
 All default paths are resolved relative to the `generation` directory. They can be overridden with command-line arguments or environment variables.
+
+## Acknowledgements
+
+This project is built upon the official FLUX.2 implementation developed by Black Forest Labs. We thank the authors for releasing their code and models.
+
+Original repository:
+https://github.com/black-forest-labs/flux2
