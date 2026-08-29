@@ -1,5 +1,11 @@
-# PDA_PLUS Plan
+## Acknowledgements
 
+This codebase is developed based on the official FLUX.2 repository by Black Forest Labs, with additional modifications and extensions for our method.
+
+Original repository:
+https://github.com/black-forest-labs/flux2
+
+# PDA_PLUS Plan
 This directory contains the PDA_PLUS Plan module, the SegEarthOV3 inference adapter, and the original third-party SAM3 source code. Datasets, model weights, and generated outputs are not included in the repository.
 
 ## Directory Layout
